@@ -3,7 +3,7 @@
 Solution-driven Approach to Learn Java Versions From 9.0 to 17.0
 
 This is the repository for [Java 9.0 to 17.0 Cookbook
-](https://in.bpbonline.com/products/java-9-0-to-17-0-cookbook?_pos=1&_sid=1fc34ec97&_ss=r&variant=43896553636078),published by BPB Publications. 
+](https://bpbonline.com/products/java-9-0-to-17-0-cookbook),published by BPB Publications. 
 
 ## About the Book
 This book is developed to bring various capabilities of Java across versions from Java 9.0 to 17.0 in the development of end to end Java applications. This book will help any Java user interested in learning how to use each significant feature available in various Java versions.
